@@ -1,0 +1,34 @@
+.forca{
+    text-align: center;
+}
+
+.palavra{
+    margin-bottom: 20px;
+}
+
+.letra button{
+    margin: 5px;
+}
+
+.tentativas{
+    margin-top: 20px;
+    text-shadow: 10px 10px 10px black;
+}
+
+button{
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+body{
+    background-image: url(ben_10_wallpaper_by_sacredgear2233_dgmj30g-pre.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#tentativas{
+    color: greenyellow;
+   
+}
